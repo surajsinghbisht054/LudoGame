@@ -18,11 +18,11 @@ __author__='''
 
 # ScreenShot
 
-![ Screenshot](scr/test.png?raw=true "ludogame")
+![ Screenshot](src/test.png?raw=true "ludogame")
 
 # ScreenShot 2 
 
-![ Screenshot](scr/test2.png?raw=true "ludogame")
+![ Screenshot](src/test2.png?raw=true "ludogame")
 
 
 # Development.
