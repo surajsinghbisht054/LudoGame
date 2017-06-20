@@ -16,6 +16,15 @@ __author__='''
     Note: We Feel Proud To Be Indian
 ######################################################
 
+# ScreenShot
+
+![ Screenshot](scr/test.png?raw=true "ludogame")
+
+# ScreenShot 2 
+
+![ Screenshot](scr/test2.png?raw=true "ludogame")
+
+
 # Development.
 
 
